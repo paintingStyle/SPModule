@@ -1,0 +1,6 @@
+framework module SPModule {
+  umbrella header "SPModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

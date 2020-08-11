@@ -1,0 +1,16 @@
+PODS:
+  - SPModule (0.1.1)
+
+DEPENDENCIES:
+  - SPModule (from `../`)
+
+EXTERNAL SOURCES:
+  SPModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SPModule: bde7ef7974029eeb08f55ed4bca9bdbb9eb87a9f
+
+PODFILE CHECKSUM: 1ee4d970f19949ea7cd1ede5f509ce769c8223fa
+
+COCOAPODS: 1.7.5
